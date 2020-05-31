@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vision-art-gallery",
+  "private_key_id": "077df9a261f1f02a5012331399f63dbf2e530c27",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCVkw/XZwOYq0dO\ntYoCNehX3rXavnCVfiGFJH2JJ32+rgm30OyQn3hCinTCtnveUMInZBNMBlsIq/WC\nrNQxn2eF+5aPV93EfyRPz0fCKPdBxyE+1K3TY0nomVeyaUAfliVWy8/XPNpEss2t\nDk4EbQSKD0o2lbXy3s59lWV997aG8jC+CjnvvKUnJw2lhaNkuy9u2GVDscHffZrd\nj1jVYLYFFfVtRRc2OyYFELJfkarniCj92W8x9rO+lldmJBIC6gddXedgjyFuF4b2\njH/WhtK9R8c+ilUi2rMkQwU/kSP2S7Zbj3iOHaRqdr03nCK/E1+NoTJfVZhpdgCl\nLp/F/SEpAgMBAAECgf8C440jqiDLNaAcumThwn4d3wSkJrQiZ+mvmmhghOK+L55V\nw93qQn+QHsciidWFSwoDKogYb84Zav/vW4OhONZ/6qModu2KenhjvORCW8EVde3K\n5VCvC59wCU1EwVHfSk41bSwWfCSeoNV0kG6b/Jt9ZHjfzef81xfs/66SlZnGOlF8\nOVdV3j02lXbhclsJ4jDXbjA+ADQivM8bJjgJGieqDNntrIch/FbFZf93fqnqlS1Y\nu7mcmkbkv8hMgJL0RVhKgBbkd5VvUE41sKpj6wiUDnB7vwAlxbCpQMXNXG3k8eep\nR1vbeuM914h5eRXChHJv09rRgPVKdsRFdIjvvEECgYEAyR5v2TVQxAeIlpwxa9+h\nladtUzGunOdT1IE5nkNXDPix132IDYothGfOUP6UgfdWJ2SG47T63M1lzFoq9Pr0\nGbT6OtKnqMGfIOg1tbPFpQfW5DrO3Hj1e2UOIGXrTXXHfLYH8YMtrRccAIxORkoI\nqe61n9GGkDCXg1rIe/4f53ECgYEAvmPipY/yFnCyCLHjT0qxrcQE2Dv9Ua2Ljy2Y\nUhQcj7+c1yI1O/NC3xsJTnhg1F8eyNpdN3eF60YhrfSbBWZIPd5svZw8HtRMULVl\n39xDr1S9oax3RKRmbvjN5N467qxsGkLZ54wXDl56icTgWnhe68R6rYPgWsQX6et+\njhApqTkCgYEAq3ir3AE87yWNKvvYlyR/29x3tWqyeUwxiQj0Wx8G5SRUXGnGyeR5\nkl3+5cdoTrbWWZe3+gSfrgnhNS3bWitsW06V2fkowRTz21agFF9Fr8LTUJtjK05l\n3eL2/GBpEg3NG2MHur4g/2aolT8KrZsJb/j6GVzG4cDMLU4FiNHN2cECgYEAmnaL\nQOtB6zbPGgLIemINOP8ZNx2kbYmw+h5xv9WVPoKkil20dsjrbfqPWFyNon7xiN6w\nVfnganrhhDI5Ou46mgdEjaidlh2DNM+WsUIQn8TOfMZhlQ0UFeBBmvc5NL4qjjvC\ncfrUEdJQ9EkIBB44VGt5ZCDj+n+xLxTh/fva8PECgYEAvLyIog3iAdSAH0oMngSd\nj0Z7hr6iAb2NtS9OGQv7X6qRzkAE5TztrkMwtlcQxCUFGd71pC8hf7WI+ZPS9lxo\n2QiaF/lOfUaKw6yWHuN1O1XlOlWwQpAScXBKdAQAVagC1rcUjTQdAlkeJM4a703w\nK9ZpqbxcYmmJ4EQc/nX15Rg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "vision-art-gallery@appspot.gserviceaccount.com",
+  "client_id": "113792464267032308733",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vision-art-gallery%40appspot.gserviceaccount.com"
+}
