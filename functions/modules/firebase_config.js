@@ -1,11 +1,3 @@
-const functions = require("firebase-functions");
-const admin = require("firebase-admin");
-const serviceAccount = require("../service_account.json");
-admin.initializeApp({
-  credential: admin.credential.cert(serviceAccount),
-  storageBucket: "vision-art-gallery.appspot.com",
-});
-
 const users = admin.firestore().collection("users");
 const artist_profile = (uid) => user_private(uid).doc("artistProfile");
 const user_private = (uid) => users.doc(uid).collection("private");
